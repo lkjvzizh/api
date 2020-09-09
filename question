@@ -1,0 +1,60 @@
+{
+  "start": {
+    "title": "Welcome!",
+    "content_1": "To provide our visitors and employees with a safe environment, we kindly ask that you answer a few health questions and check your temperature before entering. Your data will not be shared without your permission.",
+    "content_2": "NOTE: By using this device, you agree to its terms and that neither the owner of this device nor Gardera USA, Inc. will be liable for any harm relating to its use. This is a screening tool and should not be used to diagnose or treat medical conditions.",
+    "see_terms":"SEE TERMS >"
+  },
+  "terms": {
+    "title": "Terms of Use",
+    "content": "TERMS OF USE FOR THIS DEVICE PLEASE READ THESE TERMS OF USE (\"TERMS OF USE\") CAREFULLY BEFORE USING THE DEVICE. YOUR DECISION TO ACCESS, VISIT AND/OR USE MEANS THAT YOU AGREE TO BE BOUND ON BEHALF OF YOURSELF, YOUR MINOR CHILD (IF APPLICABLE), AND/OR ANY OTHER PERSON OR ENTITY FOR WHOM YOU ARE ACTING TO ALL OF THE TERMS AND CONDITIONS OF USE SET FORTH (HEREINAFTER REFERRED TO AS \"TERMS OF USE\"). BY ACCESSING,VISITING AND/OR USING,YOU REPRESENT AND WARRANT THAT YOU ARE AT LEAST EIGHTEEN (18) YEARS OF AGE AND ARE OF SUFFICIENT LEGAL AGE TO AGREE TO THESE TERMS OF USE, AND THAT YOU AGREE TO ALL OF THE TERMS AND CONDITIONS SET FORTH IN THESE TERMS OF USE ON BEHALF OF YOURSELF, YOUR MINOR CHILD (IF APPLICABLE),AND/OR ANY OTHER PERSON OR ENTITY FOR WHOM YOU ARE",
+     "agree":"AGREE",
+     "disagree":"DISAGREE"
+  },
+  "button_start":"Start",
+  "button_next":"Next",
+  "button_no":"No",
+  "button_yes":"Yes",
+  "result": {
+    "title": "Thank you",
+    "content_1": "Your next step prior to entry is to have your temperature taken. Please be sure to stand within 12 to 18 inches from the screen and remove any items that could obstruct your forehead, such as a hat or dark sun glasses. ",
+    "content_2": ""
+  },
+  "no_entry_disagree": {
+    "title": "No entry",
+    "content_1": "We’re sorry, but accepting the terms of use is required to proceed. ",
+    "content_2": ""
+  },
+  "no_entry": {
+    "title": "No entry",
+    "content_1": "We’re sorry, but we ask that you not visit this facility at this time. You may return when these questions no longer apply to you.",
+    "content_2": ""
+  },
+  "complete": {
+    "title": "Thank you",
+    "content_1": "Your screening is now complete. ",
+    "content_2": ""
+  },
+  "question": [
+    {
+      "title": "Question #1",
+      "content_1": "Have you been diagnosed with COVID-19 in the last 21 days?",
+      "content_2": ""
+    },
+    {
+      "title": "Question #2",
+      "content_1": "Have you had close contact with someone who tested positive for COVID-19 in the last 14 days?",
+      "content_2": ""
+    },
+    {
+      "title": "Question #3",
+      "content_1": "Have you experienced any of the following COVID-19 symptoms in the last 14 days?",
+      "content_2": "•Temperature of 99.1°F or higher \n•Cough \n•Shortness of breath/difficulty breathing \n•Chills \n•Muscle or body aches \n•Sore throat \n•Recent loss of taste or smell"
+    },
+    {
+      "title": "Question #4",
+      "content_1": "Are you awaiting COVID-19 test results and/or currently in a period of recommended or required quarantine?",
+      "content_2": ""
+    }
+  ]
+}
